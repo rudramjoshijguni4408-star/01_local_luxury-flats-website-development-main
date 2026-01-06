@@ -40,10 +40,3 @@ const nextConfig: NextConfig = {
 export default nextConfig;
 // Orchids restart: 1767701931510
 
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true
-};
-
-module.exports = nextConfig;
-
